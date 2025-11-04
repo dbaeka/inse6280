@@ -1,3 +1,4 @@
+```mermaid
 graph TB
     Bus[Hydrogen Fuel Cell Electric Transit Bus<br/>R_total = 0.7971]
     
